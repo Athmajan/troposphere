@@ -3,6 +3,11 @@
 ## Overview
 This project demonstrates a solution I developed during my tenure at **Dialog Axiata PLC**. While company policy restricts the sharing of source code, this repository explains the basic operations and design principles of the system.
 
+<div style="display: flex; justify-content: space-around; align-items: center;" style="margin: 50px 0;">
+<img src="https://github.com/Athmajan/athmajan/blob/main/tropospheric.gif" alt="tropospheric prediction" width="70%">
+</div>
+
+
 ### What is Tropospheric Ducting?
 Tropospheric ducting is a natural phenomenon that affects radio wave propagation. It occurs when variations in atmospheric conditions create layers that trap radio waves, allowing them to travel long distances. This can result in interference between communication systems that rely on consistent radio wave behavior.
 
@@ -59,9 +64,7 @@ I developed an automated system to:
 ### Impact
 The automated system transformed manual, reactive processes into digitized, proactive workflows. By optimizing base station configurations and delivering timely alerts, the solution not only enhanced operational efficiency but also improved customer satisfaction and complaint handling.
 
-<div style="display: flex; justify-content: space-around; align-items: center;" style="margin: 50px 0;">
-<img src="https://github.com/Athmajan/athmajan/blob/main/tropospheric.gif" alt="tropospheric prediction" width="70%">
-</div>
+
 
 ---
 
